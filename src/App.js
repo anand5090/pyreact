@@ -12,12 +12,12 @@ function App() {
   prag="loremloremloremloremloremloremloremloremloremloremloremlorem"
   btn="Button"
   />
-  <Cards title="JavaScript"  
+  <Cards title="ReactJs"  
   src="https://th.bing.com/th/id/OIP.H-DuKgY-G7ykDvpZNSJIHgHaE6?w=259&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
   prag="loremloremloremloremloremloremloremloremloremloremloremlorem"
   btn="Button"
   />
-  <Cards title="JavaScript"  
+  <Cards title="Node js"  
   src="https://th.bing.com/th/id/OIP.H-DuKgY-G7ykDvpZNSJIHgHaE6?w=259&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
   prag="loremloremloremloremloremloremloremloremloremloremloremlorem"
   btn="Button"
